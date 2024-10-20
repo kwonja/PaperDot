@@ -75,7 +75,7 @@
       <img src="./docs_assets/KSM.jpg" alt="권성민" height="150" width="150" style="border-radius: 50%;"/>
       <h4>권성민</h4>
       <p><strong>역할:</strong> FE / HLS </p>
-      <p><strong>연락처:</strong> snna58@chungbuk.ac.kr</p>
+      <p><strong>연락처:</strong> snna58@naver.com</p>
       <p><strong>GIT:</strong> <a href="https://github.com/kwonja" target="_blank">github.com/성민</a></p>
     </td>
     <td style="text-align: center; padding: 10px;">
